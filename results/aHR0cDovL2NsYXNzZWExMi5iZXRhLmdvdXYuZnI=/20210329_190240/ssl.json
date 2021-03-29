@@ -1,0 +1,39 @@
+{
+  "host": "classea12.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617044201558,
+  "testTime": 1617044501958,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "2a00:b6e0:1:20:12:0:0:1",
+      "serverName": "http11.paris1.alwaysdata.com",
+      "statusMessage": "Ready",
+      "grade": "A",
+      "gradeTrustIgnored": "A",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 211519,
+      "eta": 14,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "185.31.40.21",
+      "serverName": "http11.paris1.alwaysdata.com",
+      "statusMessage": "Ready",
+      "grade": "A",
+      "gradeTrustIgnored": "A",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 87917,
+      "eta": 4,
+      "delegation": 1
+    }
+  ]
+}
