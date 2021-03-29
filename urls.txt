@@ -13,4 +13,3 @@ https://lemarche.inclusion.beta.gouv.fr
 https://place-des-entreprises.beta.gouv.fr
 http://covoiturage.beta.gouv.fr
 https://recosante.beta.gouv.fr
-https://traitdunion.beta.gouv.fr
