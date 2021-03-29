@@ -1,0 +1,185 @@
+{
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://browser.sentry-cdn.com/4.6.4/bundle.min.js"
+    }
+  ],
+  "cookies": [
+    {
+      "name": "_pk_id.80.3b70",
+      "value": "e4eca9a0fb52e337.1617051668.1.1617051668.1617051668.",
+      "domain": "place-des-entreprises.beta.gouv.fr",
+      "path": "/",
+      "expires": 1651006868,
+      "size": 66,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_ses.80.3b70",
+      "value": "1",
+      "domain": "place-des-entreprises.beta.gouv.fr",
+      "path": "/",
+      "expires": 1617053468,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_PlaceDesEntreprises_session",
+      "value": "Zevg2M1ar2Elk7z9r%2FkLueN5Ilu4yp3K01NrfgwTdqDNuyzpcy7yqUfxh7yRHyxc8wCfEucGHbQikIzs8i5Ps3SA3%2FMDDx8TrL1vcK43KQtJpim2M02wN10tvo9OKtm92s7hSfx70CA%2FSB55BpL4EQXgiaSKR4C1P0QAGEtJ42%2Bfc%2FqGGMXfWodLNKdWS4TgeMTluchtbiksvbBFNbNwfcDJQ22kG%2BJMVuf2IKaG0E4uXsruSTWVNhThT3i%2FLdrue62CnU7qJeULjwxeKzUaM1RIjFSIUkjA63tKnoC7FJIGPnGfhMvIBV7j%2FDShQgLMLr0greCRd4ZTW9v2oc5P0N62uFdxQqUgVWaM3ekVOtVvIq8Xo5g0LvdVmgC%2FdnB7964wyCm%2BlALXkTgQpxyCE7QjOX3n2gbKyNtbX8phUxXbb4bmTEO0XkR1Sohl7z740D8XKFfM90C9iFVDrdAS9L%2FnuBj%2Brebf--B862SAP12L6RACsk--r9NHroSxNdlDytIQNQpn6A%3D%3D",
+      "domain": "place-des-entreprises.beta.gouv.fr",
+      "path": "/",
+      "expires": -1,
+      "size": 580,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameSite": "Strict",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
+  "headers": {
+    "server": "openresty",
+    "date": "Mon, 29 Mar 2021 21:01:07 GMT",
+    "content-type": "text/html; charset=utf-8",
+    "x-request-id": "961280c8-3004-45c5-a5ba-74df04737d99\n961280c8-3004-45c5-a5ba-74df04737d99",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-permitted-cross-domain-policies": "none",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "etag": "W/\"66fb47552ef99faebec0e2adb0cc21ed\"",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "set-cookie": "_PlaceDesEntreprises_session=Zevg2M1ar2Elk7z9r%2FkLueN5Ilu4yp3K01NrfgwTdqDNuyzpcy7yqUfxh7yRHyxc8wCfEucGHbQikIzs8i5Ps3SA3%2FMDDx8TrL1vcK43KQtJpim2M02wN10tvo9OKtm92s7hSfx70CA%2FSB55BpL4EQXgiaSKR4C1P0QAGEtJ42%2Bfc%2FqGGMXfWodLNKdWS4TgeMTluchtbiksvbBFNbNwfcDJQ22kG%2BJMVuf2IKaG0E4uXsruSTWVNhThT3i%2FLdrue62CnU7qJeULjwxeKzUaM1RIjFSIUkjA63tKnoC7FJIGPnGfhMvIBV7j%2FDShQgLMLr0greCRd4ZTW9v2oc5P0N62uFdxQqUgVWaM3ekVOtVvIq8Xo5g0LvdVmgC%2FdnB7964wyCm%2BlALXkTgQpxyCE7QjOX3n2gbKyNtbX8phUxXbb4bmTEO0XkR1Sohl7z740D8XKFfM90C9iFVDrdAS9L%2FnuBj%2Brebf--B862SAP12L6RACsk--r9NHroSxNdlDytIQNQpn6A%3D%3D; path=/; secure; HttpOnly; SameSite=Strict",
+    "x-runtime": "0.024483",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "content-encoding": "gzip"
+  },
+  "endpoints": [
+    {
+      "hostname": "place-des-entreprises.beta.gouv.fr",
+      "ip": "109.232.236.90",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "browser.sentry-cdn.com",
+      "ip": "151.101.66.217",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "pt-BR": "Estados Unidos",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "pt-BR": "Estados Unidos",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    }
+  ]
+}
