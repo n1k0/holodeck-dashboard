@@ -1,8 +1,10 @@
 on:
-  workflow_dispatch:
-    push:
-      branches:
-        - master
+  schedule:
+    - cron: "0 5 * * *"
+  #workflow_dispatch:
+   # push:
+   #   branches:
+   #     - master
 name: Website
 jobs:
   website:
