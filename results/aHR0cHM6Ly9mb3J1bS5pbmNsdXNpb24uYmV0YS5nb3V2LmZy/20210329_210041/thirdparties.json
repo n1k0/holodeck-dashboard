@@ -1,0 +1,590 @@
+{
+  "trackers": [
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/browser-detect-115ab5953de1b5bb122bfb26b757f5391dd8d1d2aef2b81baf7b59aee99d9f34.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/locales/fr-9b2005a56396048ee8441cfb0b86453169dd4d7d2b49563b4cc9f51a5baf733e.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/ember_jquery-36a23101c869ab0dc53fc908de69adb785731593573d32bdeef416acc1076ef4.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/vendor-cbd6e0773a348bdfe5771d26f9eb195929c0b36a2c09bdca0b903edd080428bc.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/pretty-text-bundle-de6dae7d1cdd9dabede59ab88eadb26faa2614f0bfcb270be55d82c41c5ef4a4.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/application-0b996e7003a023cd99740945716db0185b03e759d2af2a87509a1bb85a9a7d57.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/discourse-adplugin-3816f2edf4b4fe3dac529fee217ab9a0bd55aa57de23fd5aabe9946a5b8c0417.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/discourse-akismet-63ebe54d99996dea06afb80be606981bae169c8de10834bc2f5b726e55346257.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/discourse-cakeday-753e2f37e931c9e8039c07cdeff09997ce2f3f9c7c73fc6063203adc2fec6d6c.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/discourse-details-61554ea83ad59329c2d5c9f0390a0498f3e3665deb58d32dc608aeca24fa0bb9.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/discourse-local-dates-2ad8c39c8e64ec5e0ae71ae8fdc757415b24f05e29a30a9a27df9871e0779ab8.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/discourse-narrative-bot-0b1e40d099d739cee23bbad45c2fb5eac1dcaaba028fdc9fa21b9e32930ec40b.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/discourse-presence-ac88ff999e90df86ac5c068d3974b1bb83a3fad751691432b57a06accf51b42a.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/discourse-solved-5038fbbf0a4f3cd39eefc0532a1f5b2208ccfd8e5af880305d8c5531845fc63f.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/discourse-spoiler-alert-305835b7744ac91b71b49f93e6ecf8e63d83932ec3ac7034d94d00b2ab2e0c0c.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/hosted-site-7b2de61c6df5c4b75d76b3b94c20e7a714eb3426c99b342ece2073549d962046.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/lazy-yt-9db193c8caacf2e3b3a24ed4c63699ad497c210f668f467d95380efd00982345.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/plugins/poll-d8039ab6a817f8726a130962c5522a7d78613cc47eb31834475a84ab2fdff723.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/color_definitions_base__e17bb25f7d5e506b38fd5a296bb00a367a919bd3.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/desktop_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/discourse-adplugin_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/discourse-akismet_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/discourse-cakeday_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/discourse-details_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/discourse-local-dates_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/discourse-narrative-bot_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/discourse-presence_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/discourse-solved_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/discourse-spoiler-alert_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/hosted-site_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/lazy-yt_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/poll_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/poll_desktop_313c6daf5ea6c848fca198f40bfccd1ad4c12007.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/stylesheets/desktop_theme_7_4106d884bf425c8283b71d627503b2e1a6e1d688.css?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/theme-javascripts/7244e5469c0223345d2bf72c4e79d4f7a798c4be.js?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/theme-javascripts/51621e1ca6d641cd033c95f57f332a7e031514ca.js?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/theme-javascripts/70bade3e0c855cbc3999ba6c113badfb688424ea.js?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/theme-javascripts/8c26454aeebbd5455bb1e11dc99d769312d69305.js?__ws=communaute.inclusion.beta.gouv.fr"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.googleapis.com/css2?family=Roboto&display=swap",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/start-discourse-efa4e5abfbd1b50b5152ffbe64d5dcea9f7c33f766dcc6387e2711f0f2112148.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/assets/browser-update-eec13eb6f8386f18f10b5dd6ebb7a3598d28421bb796e539b91a7e4a4c5d4c08.br.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/svg-sprite/communaute.inclusion.beta.gouv.fr/svg-7-48b2d6bb8e336278c52e05b16c0e26004a137bc9.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/javascripts/magnific-popup/1.1.0/jquery.magnific-popup.min.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://dub2.discourse-cdn.com/standard20/highlight-js/communaute.inclusion.beta.gouv.fr/cdefff4af52a8d2d43094b5d57ebca1fc7613a63.js"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/uploads/beta1/original/1X/5a58918c3c5cc3a88ab91536f3315440a982ec07.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/uploads/beta1/original/1X/526da744183517b014cccc45f004ccc9097f835b.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/uploads/beta1/original/1X/cab472b3a47d758c4d190a6e6d25a8bcdab3a4b9.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/uploads/beta1/original/1X/ec8bd48748611ebb5154fc68fb648874826ae324.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/uploads/beta1/original/1X/590c3089bc55b71872d65aec278d9f99e8bce261.jpg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/uploads/beta1/original/1X/0db817930c6bda943abb0eab8ac6e79805e6df6a.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/uploads/beta1/original/1X/dd94c262ceb9e51ac172310fd104feb312cd424d.svg"
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/uploads/beta1/original/1X/b9f0b58a456c077a576b5628c10f820cf9a2e841.svg"
+    },
+    {
+      "type": "google fonts",
+      "url": "https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "details": {
+        "id": "google fonts",
+        "message": "Host the font locally with https://github.com/neverpanic/google-font-download"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/uploads/beta1/original/1X/6117f6e747c39c92550d81af891ffb2960858d81.svg"
+    },
+    {
+      "type": "hotjar",
+      "url": "https://static.hotjar.com/c/hotjar-1924516.js?sv=6",
+      "details": {
+        "id": "hotjar",
+        "message": "Dont use HotJar"
+      }
+    },
+    {
+      "type": "unknown",
+      "url": "https://aws1.discourse-cdn.com/standard20/uploads/beta1/original/1X/f0df05d3ee57d878a58807fb50113cae36174967.jpg"
+    }
+  ],
+  "cookies": [],
+  "headers": {
+    "server": "nginx",
+    "date": "Mon, 29 Mar 2021 21:00:00 GMT",
+    "content-type": "text/html; charset=utf-8",
+    "vary": "Accept-Encoding",
+    "x-frame-options": "SAMEORIGIN",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-permitted-cross-domain-policies": "none",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-discourse-route": "categories/index",
+    "cache-control": "no-cache, no-store",
+    "content-security-policy": "base-uri 'none'; object-src 'none'; script-src https://communaute.inclusion.beta.gouv.fr/logs/ https://communaute.inclusion.beta.gouv.fr/sidekiq/ https://communaute.inclusion.beta.gouv.fr/mini-profiler-resources/ https://aws1.discourse-cdn.com/standard20/assets/ https://aws1.discourse-cdn.com/standard20/brotli_asset/ https://communaute.inclusion.beta.gouv.fr/extra-locales/ https://dub2.discourse-cdn.com/standard20/highlight-js/ https://dub2.discourse-cdn.com/standard20/javascripts/ https://dub2.discourse-cdn.com/standard20/plugins/ https://dub2.discourse-cdn.com/standard20/theme-javascripts/ https://dub2.discourse-cdn.com/standard20/svg-sprite/ https://stats.data.gouv.fr/matomo.js https://stats.data.gouv.fr/piwik.php https://stats.data.gouv.fr/ http://communaute.inclusion.beta.gouv.fr/matomo.js http://communaute.inclusion.beta.gouv.fr/hotjar.js https://static.hotjar.com/ https://script.hotjar.com/; worker-src 'self' https://aws1.discourse-cdn.com/standard20/assets/ https://aws1.discourse-cdn.com/standard20/brotli_asset/ https://dub2.discourse-cdn.com/standard20/javascripts/ https://dub2.discourse-cdn.com/standard20/plugins/",
+    "x-discourse-cached": "skip",
+    "x-request-id": "e55996d3-28b9-4408-8cc9-a11273a66833",
+    "x-discourse-trackview": "1",
+    "content-encoding": "gzip",
+    "discourse-proxy-id": "app-router-tiehunter01.dub2",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "endpoints": [
+    {
+      "hostname": "forum.inclusion.beta.gouv.fr",
+      "ip": "185.42.117.109",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "aws1.discourse-cdn.com",
+      "ip": "68.70.205.4",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 2658434,
+          "iso_code": "CH",
+          "names": {
+            "de": "Schweiz",
+            "en": "Switzerland",
+            "es": "Suiza",
+            "fr": "Suisse",
+            "ja": "スイス連邦",
+            "pt-BR": "Suíça",
+            "ru": "Швейцария",
+            "zh-CN": "瑞士"
+          }
+        },
+        "location": {
+          "accuracy_radius": 100,
+          "latitude": 47.1449,
+          "longitude": 8.1551,
+          "time_zone": "Europe/Zurich"
+        },
+        "registered_country": {
+          "geoname_id": 2658434,
+          "iso_code": "CH",
+          "names": {
+            "de": "Schweiz",
+            "en": "Switzerland",
+            "es": "Suiza",
+            "fr": "Suisse",
+            "ja": "スイス連邦",
+            "pt-BR": "Suíça",
+            "ru": "Швейцария",
+            "zh-CN": "瑞士"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "dub2.discourse-cdn.com",
+      "ip": "68.70.205.4",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 2658434,
+          "iso_code": "CH",
+          "names": {
+            "de": "Schweiz",
+            "en": "Switzerland",
+            "es": "Suiza",
+            "fr": "Suisse",
+            "ja": "スイス連邦",
+            "pt-BR": "Suíça",
+            "ru": "Швейцария",
+            "zh-CN": "瑞士"
+          }
+        },
+        "location": {
+          "accuracy_radius": 100,
+          "latitude": 47.1449,
+          "longitude": 8.1551,
+          "time_zone": "Europe/Zurich"
+        },
+        "registered_country": {
+          "geoname_id": 2658434,
+          "iso_code": "CH",
+          "names": {
+            "de": "Schweiz",
+            "en": "Switzerland",
+            "es": "Suiza",
+            "fr": "Suisse",
+            "ja": "スイス連邦",
+            "pt-BR": "Suíça",
+            "ru": "Швейцария",
+            "zh-CN": "瑞士"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "fonts.googleapis.com",
+      "ip": "142.250.69.202",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "pt-BR": "Estados Unidos",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "pt-BR": "Estados Unidos",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "fonts.gstatic.com",
+      "ip": "172.217.3.163",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "pt-BR": "Estados Unidos",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "pt-BR": "Estados Unidos",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "static.hotjar.com",
+      "ip": "99.86.38.118",
+      "geoip": {
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "pt-BR": "Estados Unidos",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 1000,
+          "latitude": 37.751,
+          "longitude": -97.822,
+          "time_zone": "America/Chicago"
+        },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "pt-BR": "Estados Unidos",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    }
+  ]
+}
