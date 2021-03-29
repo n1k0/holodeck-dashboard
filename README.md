@@ -1,7 +1,5 @@
 # web-dashboard
 
-see https://socialgouv.github.io/web-dashboard
-
 ## Dev
 
 The repository root `src` folder contains scripts to fetch the data and all the automation is made using GitHub actions in `.github/workflows`.
