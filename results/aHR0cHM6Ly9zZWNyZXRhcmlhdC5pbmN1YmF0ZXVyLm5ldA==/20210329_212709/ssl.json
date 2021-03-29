@@ -1,0 +1,39 @@
+{
+  "host": "secretariat.incubateur.net",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617053000127,
+  "testTime": 1617053158142,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "109.232.236.90",
+      "serverName": "ows-109-232-236-90.eu-west-2.compute.outscale.com",
+      "statusMessage": "Ready",
+      "grade": "A+",
+      "gradeTrustIgnored": "A+",
+      "hasWarnings": false,
+      "isExceptional": true,
+      "progress": 100,
+      "duration": 78474,
+      "eta": 8,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "5.104.101.30",
+      "serverName": "ows-5-104-101-30.eu-west-2.compute.outscale.com",
+      "statusMessage": "Ready",
+      "grade": "A+",
+      "gradeTrustIgnored": "A+",
+      "hasWarnings": false,
+      "isExceptional": true,
+      "progress": 100,
+      "duration": 78944,
+      "eta": 4,
+      "delegation": 1
+    }
+  ]
+}
