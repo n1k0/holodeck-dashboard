@@ -1,0 +1,26 @@
+{
+  "host": "santepsy.etudiant.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617052664561,
+  "testTime": 1617052767040,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "185.75.143.93",
+      "serverName": "men-tandem-lb-vip.dedie.ate.info",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 101822,
+      "eta": 0,
+      "delegation": 1
+    }
+  ]
+}
