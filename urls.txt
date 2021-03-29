@@ -1,5 +1,5 @@
 https://aplus.beta.gouv.fr
-http://classea12.beta.gouv.fr
+https://classea12.beta.gouv.fr
 https://diagoriente.beta.gouv.fr
 https://eva.beta.gouv.fr
 https://emplois.inclusion.beta.gouv.fr
@@ -11,5 +11,12 @@ https://www.peps.beta.gouv.fr
 https://pilotage.inclusion.beta.gouv.fr
 https://lemarche.inclusion.beta.gouv.fr
 https://place-des-entreprises.beta.gouv.fr
-http://covoiturage.beta.gouv.fr
+https://covoiturage.beta.gouv.fr
 https://recosante.beta.gouv.fr
+https://beta.gouv.fr
+https://blog.beta.gouv.fr
+https://audioconf.numerique.gouv.fr
+https://santepsy.etudiant.gouv.fr
+https://volontaires.fonction-publique.gouv.fr/
+https://secretariat.incubateur.net
+https://pad.incubateur.net
