@@ -5,6 +5,8 @@ on:
         description: "Single url to scan or any"
         required: false
         default: ""
+  schedule:
+    - cron: "0 0 * * *"
 
 #  schedule:
 #    - cron: "0 6 */7 * *"
