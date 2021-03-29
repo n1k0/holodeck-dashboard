@@ -1,4 +1,3 @@
-https://andi.beta.gouv.fr
 https://aplus.beta.gouv.fr
 http://classea12.beta.gouv.fr
 https://diagoriente.beta.gouv.fr
