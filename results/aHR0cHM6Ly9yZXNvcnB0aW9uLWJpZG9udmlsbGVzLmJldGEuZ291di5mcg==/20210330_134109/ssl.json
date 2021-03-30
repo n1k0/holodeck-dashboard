@@ -1,0 +1,26 @@
+{
+  "host": "resorption-bidonvilles.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617111515213,
+  "testTime": 1617111587411,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "51.178.137.38",
+      "serverName": "vps-670e5c9f.vps.ovh.net",
+      "statusMessage": "Ready",
+      "grade": "A+",
+      "gradeTrustIgnored": "A+",
+      "hasWarnings": false,
+      "isExceptional": true,
+      "progress": 100,
+      "duration": 71367,
+      "eta": 4,
+      "delegation": 1
+    }
+  ]
+}
