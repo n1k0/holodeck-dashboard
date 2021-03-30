@@ -15,6 +15,7 @@ https://classea12.beta.gouv.fr
 https://covoiturage.beta.gouv.fr
 https://datapass.api.gouv.fr
 https://diagoriente.beta.gouv.fr
+https://dossierfacile.fr
 https://emplois.inclusion.beta.gouv.fr
 https://eva.beta.gouv.fr
 https://forum.inclusion.beta.gouv.fr
@@ -26,6 +27,7 @@ https://mobilic.beta.gouv.fr
 https://mrs.beta.gouv.fr
 https://openacademie.beta.gouv.fr
 https://pad.incubateur.net
+https://partaj.beta.gouv.fr
 https://pilotage.inclusion.beta.gouv.fr
 https://place-des-entreprises.beta.gouv.fr
 https://potentiel.beta.gouv.fr
@@ -34,5 +36,6 @@ https://resorption-bidonvilles.beta.gouv.fr
 https://santepsy.etudiant.gouv.fr
 https://secretariat.incubateur.net
 https://trackdechets.beta.gouv.fr
+https://transport.data.gouv.fr
 https://volontaires.fonction-publique.gouv.fr
 https://www.peps.beta.gouv.fr
