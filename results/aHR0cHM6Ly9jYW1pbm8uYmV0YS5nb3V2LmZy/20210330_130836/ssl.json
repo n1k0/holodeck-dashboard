@@ -1,0 +1,26 @@
+{
+  "host": "camino.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617107436079,
+  "testTime": 1617107509070,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "51.91.255.149",
+      "serverName": "149.ip-51-91-255.eu",
+      "statusMessage": "Ready",
+      "grade": "A+",
+      "gradeTrustIgnored": "A+",
+      "hasWarnings": false,
+      "isExceptional": true,
+      "progress": 100,
+      "duration": 72028,
+      "eta": 105,
+      "delegation": 1
+    }
+  ]
+}
