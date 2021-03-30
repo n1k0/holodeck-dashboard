@@ -1,0 +1,39 @@
+{
+  "host": "eva.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617044694528,
+  "testTime": 1617044990513,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "2a00:b6e0:1:20:10:0:0:1",
+      "serverName": "http9.paris1.alwaysdata.com",
+      "statusMessage": "Ready",
+      "grade": "A",
+      "gradeTrustIgnored": "A",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 207613,
+      "eta": 3489,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "185.31.40.19",
+      "serverName": "http9.paris1.alwaysdata.com",
+      "statusMessage": "Ready",
+      "grade": "A",
+      "gradeTrustIgnored": "A",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 87346,
+      "eta": 3480,
+      "delegation": 1
+    }
+  ]
+}
