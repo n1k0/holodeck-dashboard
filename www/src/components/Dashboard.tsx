@@ -99,7 +99,7 @@ export const Dashboard: React.FC<DashboardProps> = ({ report }) => {
         <ExternalLink size={16} /> pour accéder au rapport par produit. Si votre
         URL est manquante,{" "}
         <a
-          href="https://github.com/SocialGouv/dnum-dashboard/issues/new"
+          href="https://github.com/betagouv/holodeck-dashboard/issues/new"
           target="_blank"
           rel="noreferrer noopener"
         >
