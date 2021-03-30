@@ -1,0 +1,26 @@
+{
+  "host": "beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617052083581,
+  "testTime": 1617052192957,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "75.2.60.5",
+      "serverName": "acd89244c803f7181.awsglobalaccelerator.com",
+      "statusMessage": "Ready",
+      "grade": "A+",
+      "gradeTrustIgnored": "A+",
+      "hasWarnings": false,
+      "isExceptional": true,
+      "progress": 100,
+      "duration": 109011,
+      "eta": 3113,
+      "delegation": 1
+    }
+  ]
+}
