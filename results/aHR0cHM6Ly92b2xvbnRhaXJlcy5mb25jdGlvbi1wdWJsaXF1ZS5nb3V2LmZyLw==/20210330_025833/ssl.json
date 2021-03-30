@@ -1,0 +1,39 @@
+{
+  "host": "volontaires.fonction-publique.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617053007709,
+  "testTime": 1617053167669,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "148.253.96.24",
+      "serverName": "ows-148-253-96-24.cloudgouv-eu-west-1.compute.outscale.com",
+      "statusMessage": "Ready",
+      "grade": "A+",
+      "gradeTrustIgnored": "A+",
+      "hasWarnings": false,
+      "isExceptional": true,
+      "progress": 100,
+      "duration": 79999,
+      "eta": 941,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "185.21.194.105",
+      "serverName": "ows-185-21-194-105.cloudgouv-eu-west-1.compute.outscale.com",
+      "statusMessage": "Ready",
+      "grade": "A+",
+      "gradeTrustIgnored": "A+",
+      "hasWarnings": false,
+      "isExceptional": true,
+      "progress": 100,
+      "duration": 78825,
+      "eta": 937,
+      "delegation": 1
+    }
+  ]
+}
