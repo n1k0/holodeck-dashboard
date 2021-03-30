@@ -1,0 +1,61 @@
+{
+  "host": "lemarche.inclusion.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617108951036,
+  "testTime": 1617109623616,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "46.252.181.104",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 165617,
+      "eta": 11,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "185.42.117.108",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 168432,
+      "eta": 10,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "185.42.117.109",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 171251,
+      "eta": 9,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "46.252.181.103",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 166107,
+      "eta": 8,
+      "delegation": 1
+    }
+  ]
+}
