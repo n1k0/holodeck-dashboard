@@ -1,0 +1,57 @@
+{
+  "host": "recosante.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "IN_PROGRESS",
+  "startTime": 1617111354396,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "46.252.181.104",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 165791,
+      "eta": 3,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "185.42.117.108",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 168916,
+      "eta": 2,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "185.42.117.109",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 169544,
+      "eta": 1,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "46.252.181.103",
+      "statusMessage": "In progress",
+      "statusDetails": "TESTING_BLEICHENBACHER",
+      "statusDetailsMessage": "Testing Bleichenbacher",
+      "progress": 90,
+      "eta": 10,
+      "delegation": 1
+    }
+  ]
+}
