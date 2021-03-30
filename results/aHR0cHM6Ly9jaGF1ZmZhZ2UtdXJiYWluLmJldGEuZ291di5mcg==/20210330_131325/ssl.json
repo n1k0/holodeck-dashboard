@@ -1,0 +1,39 @@
+{
+  "host": "chauffage-urbain.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617107714178,
+  "testTime": 1617107988209,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "100.25.195.121",
+      "serverName": "ec2-100-25-195-121.compute-1.amazonaws.com",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 136690,
+      "eta": 12,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "18.235.215.12",
+      "serverName": "ec2-18-235-215-12.compute-1.amazonaws.com",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 137047,
+      "eta": 11,
+      "delegation": 1
+    }
+  ]
+}
