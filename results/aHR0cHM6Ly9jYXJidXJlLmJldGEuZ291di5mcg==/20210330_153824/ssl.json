@@ -1,0 +1,26 @@
+{
+  "host": "carbure.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617107506012,
+  "testTime": 1617107579591,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "163.172.164.1",
+      "serverName": "1-164-172-163.instances.scw.cloud",
+      "statusMessage": "Ready",
+      "grade": "A",
+      "gradeTrustIgnored": "A",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 72646,
+      "eta": 523,
+      "delegation": 1
+    }
+  ]
+}
