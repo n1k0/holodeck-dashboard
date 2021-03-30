@@ -1,0 +1,26 @@
+{
+  "host": "aides-territoires.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617107055018,
+  "testTime": 1617107208492,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "54.37.225.24",
+      "serverName": "24.ip-54-37-225.eu",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 152803,
+      "eta": 13,
+      "delegation": 1
+    }
+  ]
+}
