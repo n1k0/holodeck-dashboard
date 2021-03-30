@@ -1,0 +1,61 @@
+{
+  "host": "www.peps.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617045843482,
+  "testTime": 1617046536424,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "46.252.181.104",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 164789,
+      "eta": 146,
+      "delegation": 2
+    },
+    {
+      "ipAddress": "185.42.117.108",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 180857,
+      "eta": 145,
+      "delegation": 2
+    },
+    {
+      "ipAddress": "185.42.117.109",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 181118,
+      "eta": 144,
+      "delegation": 2
+    },
+    {
+      "ipAddress": "46.252.181.103",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 164612,
+      "eta": 143,
+      "delegation": 2
+    }
+  ]
+}
