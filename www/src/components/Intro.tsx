@@ -21,7 +21,7 @@ export const Intro: React.FC = () => {
         Vous pouvez soumettre de nouvelles URLs, proposer des corrections ou
         consulter la roadmap en{" "}
         <a
-          href="https://github.com/SocialGouv/dnum-dashboard/issues/new"
+          href="https://github.com/betagouv/holodeck-dashboard/issues/new"
           target="_blank"
           rel="noopener noreferrer"
         >
