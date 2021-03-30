@@ -1,0 +1,103 @@
+{
+  "trackers": [],
+  "cookies": [
+    {
+      "name": "sc-sticky-session",
+      "value": "T71gqM/4kWOPifONPcIQDv3wBS9Az3Mml40A7Xg2/ndM/uudfH/mAsZBR+IFNVw+G0uadIhZ57gIVaaeU0Csww==",
+      "domain": "audioconf.numerique.gouv.fr",
+      "path": "/",
+      "expires": 1617159274.692267,
+      "size": 105,
+      "httpOnly": true,
+      "secure": false,
+      "session": false,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "connect.sid",
+      "value": "s%3A92ly5JNuFfk-M2B8WP3Yptj4xlP2mG4O.QhZJJYodlA%2Bf7gqVh6dpfV3Qz1Gci%2FSTlQltbupeb0s",
+      "domain": "audioconf.numerique.gouv.fr",
+      "path": "/",
+      "expires": 1617073173.553019,
+      "size": 95,
+      "httpOnly": true,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
+  "headers": {
+    "server": "openresty",
+    "date": "Tue, 30 Mar 2021 02:54:33 GMT",
+    "content-type": "text/html; charset=utf-8",
+    "x-request-id": "71c58666-af59-4bde-a122-5d5bf58e5643",
+    "strict-transport-security": "max-age=31536000",
+    "x-powered-by": "Express",
+    "etag": "W/\"250b-BNidIXK95atUUXt7NwAxy/BE2t0\"",
+    "set-cookie": "connect.sid=s%3A92ly5JNuFfk-M2B8WP3Yptj4xlP2mG4O.QhZJJYodlA%2Bf7gqVh6dpfV3Qz1Gci%2FSTlQltbupeb0s; Path=/; Expires=Tue, 30 Mar 2021 02:59:33 GMT; HttpOnly; SameSite=Lax\nsc-sticky-session=T71gqM/4kWOPifONPcIQDv3wBS9Az3Mml40A7Xg2/ndM/uudfH/mAsZBR+IFNVw+G0uadIhZ57gIVaaeU0Csww==; Expires=Wed, 31-Mar-21 02:54:33 GMT; Max-Age=86400; Path=/; HttpOnly",
+    "content-encoding": "gzip"
+  },
+  "endpoints": [
+    {
+      "hostname": "audioconf.numerique.gouv.fr",
+      "ip": "185.21.194.105",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    }
+  ]
+}
