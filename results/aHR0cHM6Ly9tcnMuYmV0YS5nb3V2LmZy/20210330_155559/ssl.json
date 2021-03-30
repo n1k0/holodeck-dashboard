@@ -1,0 +1,26 @@
+{
+  "host": "mrs.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617045536968,
+  "testTime": 1617045746644,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "37.187.143.237",
+      "serverName": "ns344289.ip-37-187-143.eu",
+      "statusMessage": "Ready",
+      "grade": "B",
+      "gradeTrustIgnored": "B",
+      "hasWarnings": true,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 208724,
+      "eta": 414,
+      "delegation": 1
+    }
+  ]
+}
