@@ -83,7 +83,7 @@ jobs:
           # token: "${{ secrets.GITHUB_TOKEN }}"
           docker_name: "owasp/zap2docker-stable"
           target: "${{ matrix.url }}"
-          cmd_options: "-a"
+          cmd_options: "-a -w zap.md"
 
       - name: Lighthouse scan
         continue-on-error: true
