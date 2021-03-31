@@ -1,0 +1,26 @@
+{
+  "host": "catalogue.apprentissage.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617107537166,
+  "testTime": 1617107608443,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "146.59.155.162",
+      "serverName": "vps-2c67d8e1.vps.ovh.net",
+      "statusMessage": "Ready",
+      "grade": "A",
+      "gradeTrustIgnored": "A",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 70637,
+      "eta": 2051,
+      "delegation": 1
+    }
+  ]
+}
