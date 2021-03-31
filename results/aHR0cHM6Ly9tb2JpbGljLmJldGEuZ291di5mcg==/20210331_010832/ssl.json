@@ -1,0 +1,39 @@
+{
+  "host": "mobilic.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617108913421,
+  "testTime": 1617109065807,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "109.232.236.90",
+      "serverName": "ows-109-232-236-90.eu-west-2.compute.outscale.com",
+      "statusMessage": "Ready",
+      "grade": "A+",
+      "gradeTrustIgnored": "A+",
+      "hasWarnings": false,
+      "isExceptional": true,
+      "progress": 100,
+      "duration": 75704,
+      "eta": 2061,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "5.104.101.30",
+      "serverName": "ows-5-104-101-30.eu-west-2.compute.outscale.com",
+      "statusMessage": "Ready",
+      "grade": "A+",
+      "gradeTrustIgnored": "A+",
+      "hasWarnings": false,
+      "isExceptional": true,
+      "progress": 100,
+      "duration": 75735,
+      "eta": 2058,
+      "delegation": 1
+    }
+  ]
+}
