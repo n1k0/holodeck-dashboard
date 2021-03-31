@@ -1,0 +1,26 @@
+{
+  "host": "diagoriente.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617151847062,
+  "testTime": 1617151977188,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "51.75.235.166",
+      "serverName": "ip166.ip-51-75-235.eu",
+      "statusMessage": "Ready",
+      "grade": "A+",
+      "gradeTrustIgnored": "A+",
+      "hasWarnings": false,
+      "isExceptional": true,
+      "progress": 100,
+      "duration": 129274,
+      "eta": 7,
+      "delegation": 1
+    }
+  ]
+}
