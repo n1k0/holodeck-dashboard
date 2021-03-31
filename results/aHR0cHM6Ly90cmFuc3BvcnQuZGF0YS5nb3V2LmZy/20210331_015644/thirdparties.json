@@ -1,0 +1,124 @@
+{
+  "trackers": [],
+  "cookies": [
+    {
+      "name": "_pk_ses.58.4f3e",
+      "value": "1",
+      "domain": "transport.data.gouv.fr",
+      "path": "/",
+      "expires": 1617157565,
+      "size": 16,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_pk_id.58.4f3e",
+      "value": "af7f5de4867aefa0.1617155765.1.1617155765.1617155765.",
+      "domain": "transport.data.gouv.fr",
+      "path": "/",
+      "expires": 1651110965,
+      "size": 66,
+      "httpOnly": false,
+      "secure": false,
+      "session": false,
+      "sameSite": "Lax",
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    },
+    {
+      "name": "_transport_key",
+      "value": "SFMyNTY.g3QAAAACbQAAAAtfY3NyZl90b2tlbm0AAAAYN2FxdHl6aEM5OG90WXZEbWpMYndDNzdEbQAAAAZsb2NhbGVtAAAAAmZy.Ua2aPX44HaglHlHaqB74i7jmrjvZG2aAmc9Ghpo7K7A",
+      "domain": "transport.data.gouv.fr",
+      "path": "/",
+      "expires": -1,
+      "size": 158,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "sameParty": false,
+      "sourceScheme": "Secure",
+      "sourcePort": 443
+    }
+  ],
+  "headers": {
+    "cache-control": "max-age=0, private, must-revalidate",
+    "content-length": "21567",
+    "content-type": "text/html; charset=utf-8",
+    "cross-origin-window-policy": "deny",
+    "date": "Wed, 31 Mar 2021 01:56:04 GMT",
+    "server": "Cowboy",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-download-options": "noopen",
+    "x-frame-options": "SAMEORIGIN",
+    "x-permitted-cross-domain-policies": "none",
+    "x-request-id": "FnFKmYnWBHPArx4ABmcB",
+    "x-xss-protection": "1; mode=block",
+    "set-cookie": "_transport_key=SFMyNTY.g3QAAAACbQAAAAtfY3NyZl90b2tlbm0AAAAYN2FxdHl6aEM5OG90WXZEbWpMYndDNzdEbQAAAAZsb2NhbGVtAAAAAmZy.Ua2aPX44HaglHlHaqB74i7jmrjvZG2aAmc9Ghpo7K7A; path=/; secure; HttpOnly",
+    "sozu-id": "b77f2e07-98a1-467f-92ad-d4f438853475"
+  },
+  "endpoints": [
+    {
+      "hostname": "transport.data.gouv.fr",
+      "ip": "46.252.181.103",
+      "geoip": {
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        },
+        "country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        },
+        "location": {
+          "accuracy_radius": 500,
+          "latitude": 48.8582,
+          "longitude": 2.3387,
+          "time_zone": "Europe/Paris"
+        },
+        "registered_country": {
+          "geoname_id": 3017382,
+          "is_in_european_union": true,
+          "iso_code": "FR",
+          "names": {
+            "de": "Frankreich",
+            "en": "France",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス共和国",
+            "pt-BR": "França",
+            "ru": "Франция",
+            "zh-CN": "法国"
+          }
+        }
+      }
+    }
+  ]
+}
