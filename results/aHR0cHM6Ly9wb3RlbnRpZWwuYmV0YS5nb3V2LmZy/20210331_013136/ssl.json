@@ -1,0 +1,39 @@
+{
+  "host": "potentiel.beta.gouv.fr",
+  "port": 443,
+  "protocol": "http",
+  "isPublic": false,
+  "status": "READY",
+  "startTime": 1617111331393,
+  "testTime": 1617111587553,
+  "engineVersion": "2.1.8",
+  "criteriaVersion": "2009q",
+  "endpoints": [
+    {
+      "ipAddress": "87.98.182.136",
+      "serverName": "ip136.ip-87-98-182.eu",
+      "statusMessage": "Ready",
+      "grade": "A",
+      "gradeTrustIgnored": "A",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 127403,
+      "eta": 2013,
+      "delegation": 1
+    },
+    {
+      "ipAddress": "87.98.180.173",
+      "serverName": "ip173.ip-87-98-180.eu",
+      "statusMessage": "Ready",
+      "grade": "A",
+      "gradeTrustIgnored": "A",
+      "hasWarnings": false,
+      "isExceptional": false,
+      "progress": 100,
+      "duration": 127953,
+      "eta": 2008,
+      "delegation": 1
+    }
+  ]
+}
